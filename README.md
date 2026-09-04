@@ -38,3 +38,21 @@ Expense_Sharing/
 ├── README.md
 ├── .gitignore
 └── screenshots/
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add_expense.png)
+
+### Balance Summary
+
+![Balance Summary](screenshots/balance.png)
+
+### Payment History
+
+![Payment History](screenshots/payment_history.png)
